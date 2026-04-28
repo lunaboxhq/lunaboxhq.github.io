@@ -346,7 +346,7 @@
       <div class="install-section">
         <div class="install-label">⚡ FAST INSTALL</div>
         <div class="install-command">
-          <code id="install-code">curl -fsSL https://luna-box.github.io/install.sh | bash</code>
+          <code id="install-code">curl -fsSL https://lunaboxhq.github.io/install.sh | bash</code>
           <button class="copy-btn" onclick="copyInstallCommand()">💾</button>
         </div>
       </div>
